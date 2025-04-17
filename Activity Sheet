@@ -1,5 +1,5 @@
-S.No      Name        Task                            Date
-1.        John        create web template             October 20, 2025.
-2.        Michael     design web on wordpress         October 25, 2025.
-3.        Tom         maintain source code            October 30, 2025.
-4.        Sal         review the sales document       October 30, 2025.
+S.No      Name        Task                            Date                    Status
+1.        John        create web template             October 20, 2025        Pending
+2.        Michael     design web on wordpress         October 25, 2025        In Progress
+3.        Tom         maintain source code            October 30, 2025        In Progress
+4.        Sal         review the sales document       October 30, 2025        In Progress
